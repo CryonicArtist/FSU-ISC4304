@@ -1,3 +1,3 @@
-s = set([1,1,23,231,123,32,2,3,4,56,7,3,5,45,6,7,2,2])
-print(s)
-print(dir(s))
+def add(x,y=3):
+    return x+y
+print(add(5, 8))
