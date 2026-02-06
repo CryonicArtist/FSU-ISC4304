@@ -1,0 +1,130 @@
+--- General Statistics ---
+Metric,Value
+Average Sentence Length (words),16.17
+Average Word Length (chars),4.07
+
+--- Word Length Counts ---
+Word Length,Count
+Length 1,1137
+Length 2,4200
+Length 3,6890
+Length 4,5766
+Length 5,3404
+Length 6,2098
+Length 7,1648
+Length 8,753
+Length 9,467
+Length 10,185
+Length 11,121
+Length 12,42
+Length 13,16
+Length 14,8
+Length 15,0
+Length 16,1
+Length 17,0
+Length 18,1
+Length 19,1
+Length 20,0
+
+--- Top 100 Most Common Words ---
+Rank,Word,Frequency
+1,the,1639
+2,and,849
+3,to,725
+4,a,632
+5,she,525
+6,it,518
+7,of,513
+8,said,460
+9,i,384
+10,alice,382
+11,in,368
+12,was,351
+13,you,347
+14,that,266
+15,as,259
+16,her,247
+17,at,208
+18,on,193
+19,with,179
+20,had,178
+21,all,177
+22,but,165
+23,so,151
+24,for,150
+25,be,146
+26,not,136
+27,very,130
+28,this,130
+29,what,129
+30,little,127
+31,they,126
+32,out,117
+33,he,116
+34,its,111
+35,down,102
+36,up,100
+37,one,98
+38,his,95
+39,is,94
+40,about,94
+41,if,93
+42,then,91
+43,were,87
+44,no,86
+45,like,85
+46,know,85
+47,them,84
+48,went,83
+49,herself,83
+50,again,82
+51,do,80
+52,would,78
+53,when,78
+54,have,76
+55,or,75
+56,could,74
+57,there,74
+58,thought,73
+59,off,72
+60,time,70
+61,queen,68
+62,into,67
+63,see,66
+64,how,64
+65,me,64
+66,who,62
+67,well,62
+68,did,62
+69,king,61
+70,*,60
+71,dont,59
+72,by,58
+73,my,58
+74,mock,57
+75,an,57
+76,began,57
+77,now,57
+78,way,56
+79,your,55
+80,hatter,55
+81,turtle,55
+82,gryphon,55
+83,im,54
+84,quite,53
+85,much,51
+86,just,51
+87,their,51
+88,say,50
+89,some,50
+90,go,50
+91,rabbit,49
+92,think,49
+93,first,49
+94,are,49
+95,only,49
+96,thing,49
+97,head,48
+98,here,47
+99,more,47
+100,voice,47
