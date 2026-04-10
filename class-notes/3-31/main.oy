@@ -1,0 +1,4 @@
+from time import perf_counter
+
+cdef extern from "math.h":
+double sqrt(double)
